@@ -55,6 +55,7 @@ The project adheres to the **Clean Architecture** structure, ensuring separation
 
 ---
 
+
 ## Unit Testing
 
 The project includes comprehensive **unit tests** for:
@@ -71,3 +72,4 @@ Testing tools used:
 - MockK/Mockito for mocking dependencies.
 
 ---
+![Screen_recording_20241126_102417-ezgif com-effects](https://github.com/user-attachments/assets/737c9684-f0d1-4fea-8c32-73161ba51319)
