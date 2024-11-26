@@ -70,6 +70,7 @@ The project includes comprehensive **unit tests** for:
 Testing tools used:
 - JUnit for writing unit tests.
 - MockK/Mockito for mocking dependencies.
-
 ---
-![Screen_recording_20241126_102417-ezgif com-effects](https://github.com/user-attachments/assets/737c9684-f0d1-4fea-8c32-73161ba51319)
+![Screen_recording_20241126_102417-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/aa3c1f8f-ced3-45b5-aefd-11d0dbd86a03)
+---
+
